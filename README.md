@@ -27,8 +27,8 @@ My name is Parth Sarthi Prasad and I'm a sofware developer. I'm from India and c
 <!-- github statistics -->
 <a href="https://github.com/parthsarthiprasad/parthsarthiprasad">
 
-![](https://github.com/parthsarthiprasad/parthsarthiprasad/blob/master/generated/overview.svg)
-![](https://github.com/parthsarthiprasad/parthsarthiprasad/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/parthsarthiprasad/parthsarthiprasad/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/parthsarthiprasad/parthsarthiprasad/master/generated/languages.svg)
 
 </a>
 
