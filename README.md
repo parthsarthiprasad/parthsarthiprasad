@@ -7,14 +7,14 @@ My name is Parth Sarthi Prasad and I'm a sofware developer. I'm from India and c
 
 
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/parthsarthiprasad/parthsarthiprasad/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
 
 [2]: https://github.com/parthsarthiprasad
-[3]: https://www.linkedin.com/in/parthsarthiprasad/
+[3]: https://www.linkedin.com/in/parth-sarthi-prasad-510600185/
 <!--
 **parthsarthiprasad/parthsarthiprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
